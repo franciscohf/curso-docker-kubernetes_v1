@@ -161,6 +161,23 @@ El curso incluye un **proyecto integrador full-stack** que evoluciona progresiva
 
 ---
 
+## Proyecto Final
+
+Al finalizar el curso, los estudiantes desarrollarán un **proyecto final individual** basado en el Proyecto Integrador v2.0.
+
+**Objetivo:** Aprender el workflow profesional de versionamiento, publicación de imágenes en Docker Hub y gestión de rollouts en Kubernetes.
+
+**Entorno:** VirtualBox + Ubuntu 24.04 Desktop + microk8s + Docker
+
+**Entregables:**
+- Repositorio público en GitHub/GitLab
+- Imágenes públicas en Docker Hub
+- README con screenshots y documentación completa
+
+**[Ver instrucciones completas →](PROYECTO_FINAL.md)**
+
+---
+
 ## Notas
 
 - Este repositorio es **público** y forma parte del curso oficial de i-Quattro
